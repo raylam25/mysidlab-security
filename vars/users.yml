@@ -1,8 +1,8 @@
 ---
 users:
-  - name: John Aloha
+  - name: jaloha
     aws_groups: "sacramento, fresno, indio"
-  - name: Aloha Jane
+  - name: ajane
     aws_groups: "losangeles, sanfrancisco, napa"
-  - name: Maili Pikake
+  - name: mpikake
     aws_groups: "palmsprings, indio, sandiego"
